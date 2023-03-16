@@ -1,0 +1,2 @@
+get-winuserlanguagelist
+set-winsuserlanguagelist en-US
